@@ -1,2 +1,2 @@
 # firefox-addon-googlecojp-search
-デスクトップ版Firefoxの検索エンジンに、www.google.comよりRTTの良いwww.google.co.jpを追加する最小限のアドオン
+デスクトップ版Firefoxの検索エンジンに、 www.google.com よりRTTの良い www.google.co.jp を追加する最小限のアドオン
